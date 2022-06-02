@@ -9,7 +9,8 @@ Tech-X is a shopping site based for the future of tech. Tech-X mainly focuses on
 
 # Usage
 
-<img width="1440" alt="Screenshot 2022-06-02 at 1 25 55 PM" src="https://user-images.githubusercontent.com/95050386/171688837-d2a5b51b-247b-413d-acac-91b56fa92b75.png">
+
+![Screen Shot 2022-06-02 at 2 50 53 PM](https://user-images.githubusercontent.com/94779524/171705927-1aa01e5b-e55b-4c65-83a5-0fa2cd4ab260.png)
 
 
 # Technologies Used
